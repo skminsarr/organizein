@@ -1,0 +1,220 @@
+* {
+    border: 0;
+    margin: 0;
+}
+body {
+    /* width: 1689px; */
+}
+
+.myheader {
+    display: flex;
+    background-color: #fcfcfc;
+}
+
+.myheader h4 {
+margin-left: 90px;
+margin-top: 26px;
+}
+
+.myheader img {
+    margin-left: 26px;
+    margin-top: 26px;
+    height: 19px;
+    width: 143px;
+    }
+
+    .phone {
+        margin-left: 847px;
+        height: 53px;
+        width: 227px;
+        background-color: #f1f1f1;
+        }
+    .phone img {
+        height:27px ;
+        width: 17px ;
+        /* margin: 14px 169px 12px 41px; */
+        /* padding-top: 0px; */
+        margin-top: 15px;
+    
+    }
+    .phone p {
+        
+        float: right;
+        padding-top: 20px;
+        width: 170px;
+        
+    }
+    
+    #web {
+        height: 27px;
+        width: 27px;
+        margin-top: 14px;
+    }
+
+    .vl {
+        border-left: 3px solid black;
+        margin-left: 23px;
+        height: 32px;
+        margin-top: 10px;
+        
+      }
+
+      #login {
+          margin: 20px 0px 0px 25px;
+      }
+
+      #boylogo {
+          height: 42px;
+          width: 42px;
+          margin: 7px 0px 0px 25px;
+      }
+
+      #myheader {
+          box-shadow: 0px 3px #dcdcdc;
+      }
+
+      .mynav {
+          /* background-color: blanchedalmond; */
+          display: flex;
+          margin-bottom: 25px;
+          
+      }
+      .mynav img {
+        margin: 32px 72px 15px 80px;
+      }
+      
+      .mynav ul {
+          margin: 23px 0px 0px 283px;
+      }
+
+      .mynav ul li a {
+        padding: 0px 0px 0px 14px;
+        font-size: 19px;
+    }
+
+
+     ul.nav-list {
+        list-style-type: none;
+        display: flex;
+        align-items: center;
+    }  
+     ul.nav-list li {
+        margin-left: 30px;
+        padding: 20px 0;
+        position: relative;
+    
+    }
+      
+     ul.nav-list li a {
+    color: var(--pure);
+    text-decoration: none;
+    letter-spacing: 1px;
+    
+    
+    }
+    
+   
+    .btn {
+        background: #4ebdeb;
+        color: #fff;
+        outline: none;
+        padding: 12px 52px ;
+        border-radius: 10px;
+        font-size: 19px;
+        cursor: pointer;
+        letter-spacing: 1px;
+        border: none;
+        margin-left: 80px;
+        
+         
+    }
+
+
+    
+
+    .font1 img {
+        margin: 45px 0px 0px 150px;
+    }
+
+    .collab {
+        background-color: #4ebdeb;
+        overflow: hidden;
+    }
+
+    .collabfont {
+        height: 590px;   
+        overflow: hidden;
+        width: 100%;
+        display: flex;
+        color: #4a4a4a;
+        
+    }
+    .font-write {
+        text-align:;
+        float: right;
+        margin : 170px 300px 0px 350px;
+        color: #ffffff;
+        font-size: x-large;
+        white-space: nowrap;
+
+    }
+
+    .btn2 {
+        padding: 15px 40px;
+        font-size: 20px;
+        border-radius: 10px;
+        background-color: #fdbb34;
+    }
+
+    .font-und{
+        padding: 12px 170px;
+        color: #ffffff;
+        font-size: 38px;
+        height: 110px;
+        background-color:#0d3685;
+        margin-top:0px;
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+
+    .font-und button{
+        float: right;
+        background-color:#4ebdeb;
+        margin-left: 20px;
+        
+    }
+
+    .coloring{
+        background-color: #f5f7fa;
+    }
+
+    .font-write-btm {
+        text-align:;
+        float: right;
+        margin : 170px 50px 0px 125px;
+        color: #4a4a4a;
+        font-size: x-large;
+        white-space: nowrap;
+
+    }
+    
+    .btn3 {
+        padding: 20px 85px;
+        border-radius: 10px;
+        font-size: 20px;
+        background: #4ebdeb;
+    }
+
+    input {
+        padding: 20px 90px 20px 20px;
+        font-size: 20px;
+        box-shadow: 0px 1px #909090;
+        background: #ffffff;
+        border-radius: 10px;
+        
+    }
+
+
+
+    
